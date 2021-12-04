@@ -1,0 +1,1 @@
+kubectl --kubeconfig=kubeconfig port-forward flask-test 8080:8080
